@@ -1,0 +1,10 @@
+package com.SB._02_TestRun;
+
+public class Test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,18 @@
+package com.SB._02_Condition;
+
+public class ConditionStatement {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		String abc = " ";
+		
+		if(abc) {
+			System.out.print("SaGNIK BISWAS");
+		}
+		
+		
+
+	}
+
+}

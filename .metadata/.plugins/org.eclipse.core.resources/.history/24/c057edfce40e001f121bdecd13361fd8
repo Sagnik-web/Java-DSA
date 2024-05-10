@@ -1,0 +1,5 @@
+package com.SB._05_Interface;
+
+public interface Inter {
+
+}

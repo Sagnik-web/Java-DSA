@@ -1,0 +1,8 @@
+package com.SB._05_Interface;
+
+public class InterfaceClass {
+	
+	public static void main(String args[]) {
+		System.out.println("Interface");
+	}
+}

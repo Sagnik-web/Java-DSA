@@ -1,0 +1,10 @@
+package com.SB._03_ClassB;
+
+public class ClassB {
+	
+	int defaultVal=10;
+	private int privateVal=10;
+	public int publicVal=10;
+	protected int protectedVal=10;
+	
+}

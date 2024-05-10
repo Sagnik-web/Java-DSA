@@ -1,0 +1,10 @@
+package com.SB._03_ClassA;
+
+public class ClassA {
+	
+	int defaultNum=10;
+	private int privateNum=20;
+	public int publicNum=30;
+	protected int protectedNum=40;
+	
+}
